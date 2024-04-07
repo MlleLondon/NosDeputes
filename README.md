@@ -20,7 +20,7 @@ Cette application Android permet aux utilisateurs de consulter les informations 
 
 ## Captures d'écran
 
-* On y retrouve la page d'acceuil, on recherche le ou les députés par leur nom, leur groupe parlementaire, ...
+* On y retrouve la page d'accueil, on recherche le ou les députés par leur nom, leur groupe parlementaire, ...
 
   <img src="https://github.com/MlleLondon/NosDeputes/assets/98589757/2f0d9f1b-2bf4-4c0a-96b9-ac7340deb514" width="300" height="600">
 
