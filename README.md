@@ -39,7 +39,7 @@ Cette application Android permet aux utilisateurs de consulter les informations 
 ### Cloner le dépôt GitHub :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nos-deputes-android.git
+git clone https://github.com/MlleLondon/NosDeputes.git
 ```
 
 ### Ouvrir le projet dans Android Studio.
